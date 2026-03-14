@@ -1,10 +1,14 @@
 # Abstraction level (vertical):
-Paradigm        ← shapes everything below
-  Domain        ← territory of knowledge/practice
-    Context     ← active situational instance
-      Construct ← named unit within domain/context
+Paradigm          ← foundational worldview
+  Domain          ← territory of knowledge/practice
+    System        ← bounded, designed arrangement of components
+      Context     ← active situational instance within the system
+        Construct ← named unit you reason with
 
-# Human dimension (orthogonal to the above):
-Role       ← what function you occupy in the system
+# Human/agency dimension (orthogonal):
+Role        ← defined function within a system
+Actor       ← entity exercising agency (human or machine)
+  Agent     ← autonomous Actor with goals and a principal
 Perspective ← how you see from where you stand
-Audience   ← who you're directing output toward
+Framing     ← how you package what you see for an audience
+Audience    ← who receives the output

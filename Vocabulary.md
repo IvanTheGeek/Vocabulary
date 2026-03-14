@@ -2,9 +2,10 @@ ABSTRACTION STACK
 ─────────────────────────────────────────
 Paradigm       unconscious foundational worldview
   Domain       territory of knowledge and practice
+    [layers]   stacked levels of concern within the domain
     System     bounded, designed arrangement of components
       Model    composed representation built from constructs
-        Layer  level of abstraction within a system
+        Layer  level of abstraction within a system or domain
           Context   active situational instance
             Construct  named unit you reason with
 
@@ -15,11 +16,24 @@ Actor      entity exercising agency
   Agent    autonomous Actor with goals and a principal
 Intent     the why driving an Actor's action
 
+CAUSAL CHAIN
+─────────────────────────────────────────
+Trigger    condition or signal that initiates
+Action     discrete unit of doing
+  Event    recorded proof an action completed
+
+STRUCTURAL RULES
+─────────────────────────────────────────
+Constraint   limits valid states or actions (pre-condition)
+Invariant    condition that must always hold (perpetual integrity)
+
 ANALYTICAL TOOLS
 ─────────────────────────────────────────
-Lens         deliberate analytical filter (picked up, applied, set down)
+Lens         deliberate analytical filter
 Assumption   unstated belief underlying any of the above
-Constraint   rule limiting valid states or behaviors
+
+LANGUAGE
+─────────────────────────────────────────
 Vocabulary   committed set of constructs for a domain/system
 Interface    defined crossing point between systems/layers/actors
 

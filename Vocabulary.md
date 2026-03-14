@@ -2,25 +2,32 @@ ABSTRACTION STACK
 ─────────────────────────────────────────
 Paradigm       unconscious foundational worldview
   Domain       territory of knowledge and practice
-    [layers]   stacked levels of concern within the domain
+    Layer      stacked level of concern (in domain or system)
     System     bounded, designed arrangement of components
       Model    composed representation built from constructs
-        Layer  level of abstraction within a system or domain
-          Context   active situational instance
+        Context     situational circumstances (where/what)
+          Session   temporal container (when/how long)
             Construct  named unit you reason with
 
 AGENCY DIMENSION
 ─────────────────────────────────────────
-Role       defined function within a system
-Actor      entity exercising agency
-  Agent    autonomous Actor with goals and a principal
-Intent     the why driving an Actor's action
+Role         defined function within a system
+Actor        entity exercising agency
+  Agent      autonomous Actor with goals and a principal
 
-CAUSAL CHAIN
+HUMAN CAUSAL CHAIN
+─────────────────────────────────────────
+Motivation   persistent underlying force
+  Goal       defined outcome spanning multiple sessions
+    Intent   specific goal driving a particular action
+      Action     discrete unit of doing
+        Event    recorded proof an action completed
+
+MECHANICAL CAUSAL CHAIN
 ─────────────────────────────────────────
 Trigger    condition or signal that initiates
-Action     discrete unit of doing
-  Event    recorded proof an action completed
+  Action   discrete unit of doing
+    Event  recorded proof an action completed
 
 STRUCTURAL RULES
 ─────────────────────────────────────────
